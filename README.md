@@ -1,6 +1,8 @@
 # Ideas
 A collection of things I could do.
 
+![Bike wheel tribal elements](00005-bike-wheel-tribal-elements.svg)
+
 ![Raspberry pi shader device](00004-raspberry-pi-shader-device.svg)
 
 ![Modular synth to plotter](00003-modular-synth-to-plotter.svg)
