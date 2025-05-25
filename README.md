@@ -1,6 +1,8 @@
 # Ideas
 A collection of things I could do.
 
+![Agentic and graph based learning tool](00008-agentic-and-graph-based-learning-tool.svg)
+
 ![3d printed picture frame](00007-3d-printed-picture-frame.svg)
 
 ![Learn quantum algorithms](00006-learn-quantum-algorithms.svg)
