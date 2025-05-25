@@ -1,6 +1,8 @@
 # Ideas
 A collection of things I could do.
 
+![3d printed picture frame](00007-3d-printed-picture-frame.svg)
+
 ![Learn quantum algorithms](00006-learn-quantum-algorithms.svg)
 
 ![Bike wheel tribal elements](00005-bike-wheel-tribal-elements.svg)
