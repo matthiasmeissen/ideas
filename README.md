@@ -1,6 +1,8 @@
 # Ideas
 A collection of things I could do.
 
+![Trackpad painting tool](00009-trackpad-painting-tool.svg)
+
 ![Agentic and graph based learning tool](00008-agentic-and-graph-based-learning-tool.svg)
 
 ![3d printed picture frame](00007-3d-printed-picture-frame.svg)
