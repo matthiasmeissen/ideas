@@ -1,6 +1,8 @@
 # Ideas
 A collection of things I could do.
 
+![Canvas Location Visuals](00010-canvas-location-visuals.svg)
+
 ![Trackpad painting tool](00009-trackpad-painting-tool.svg)
 
 ![Agentic and graph based learning tool](00008-agentic-and-graph-based-learning-tool.svg)
