@@ -1,6 +1,8 @@
 # Ideas
 A collection of things I could do.
 
+![Spoke Glow Foil](00011-spoke-glow-foil.svg)
+
 ![Canvas Location Visuals](00010-canvas-location-visuals.svg)
 
 ![Trackpad painting tool](00009-trackpad-painting-tool.svg)
